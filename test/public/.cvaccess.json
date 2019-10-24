@@ -1,0 +1,14 @@
+{
+	"block": ["^\\.+"]
+	, "mime": {
+		"html":   "text/html"
+		, "txt":  "text/plain"
+		, "js":   "application/js"
+		, "json": "application/json"
+		, "ico":  "img/x-icon"
+		, "jpg":  "img/jpeg"
+		, "jpeg": "img/jpeg"
+		, "gif":  "img/gif"
+		, "png":  "img/png"
+	}
+}
